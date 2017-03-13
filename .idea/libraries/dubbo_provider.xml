@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dubbo-provider">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/dubbo-provider.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/dubbo-provider.jar!/" />
+    </SOURCES>
+  </library>
+</component>
